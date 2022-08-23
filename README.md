@@ -20,4 +20,6 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+## OBS: no Windows precisa ajustar os static files, path dos statics inicialmente configurado para Linux
+
 ### URL: http://localhost:8000/
